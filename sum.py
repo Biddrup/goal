@@ -12,5 +12,6 @@ while True:
         b = int(a)
         c = c + b
         d.append(b)
+#Will give the output
 print('You have putted ' + d)
 print('And, sum of them 'c)
